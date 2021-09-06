@@ -1,0 +1,5 @@
+/vendor
+/public/images
+/storage/*.key
+.phpunit.result.cache
+
